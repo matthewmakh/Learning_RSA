@@ -45,6 +45,7 @@ def OPhi(num):
     else:
         print("Cannot calculate mod inverse")'''
 
+
 def RSA_encrypt(m,e,n):
     #return (m**e) % n
     # changed to this for efficiency
